@@ -1,0 +1,23 @@
+{
+  "name": "tavernBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1014.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.6",
+    "fast-csv": "^4.3.6",
+    "json": "^11.0.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "uuid": "^8.3.2",
+    "web3": "^1.6.0",
+    "web3-providers-ws": "^1.6.0"
+  }
+}
